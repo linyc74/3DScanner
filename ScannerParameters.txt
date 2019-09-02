@@ -66,7 +66,7 @@ p25
 tp26
 bsS'camIndexL'
 p27
-I1
+I2
 sS'zMax'
 p28
 I270
@@ -121,7 +121,7 @@ p45
 I200
 sS'xCurrent'
 p46
-I-50
+I327
 sS'denoiseNoiseThres'
 p47
 I1000
@@ -130,7 +130,7 @@ p48
 I3
 sS'camIndexR'
 p49
-I0
+I1
 sS'laserHalfWidth'
 p50
 I10
